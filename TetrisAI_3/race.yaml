@@ -1,0 +1,12 @@
+start board: [10,20]
+tetris rules id: Standard
+piece generator id: Linear
+board evaluator id: Teng 1.4.1
+parameter name: areaWidthFactor1
+save on close: false
+games:
+ - parameter value: 4
+ - parameter value: 4.5
+ - parameter value: 5
+ - parameter value: 5.5
+ - parameter value: 6

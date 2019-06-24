@@ -1,0 +1,13 @@
+I 1
+z 2
+s 3
+J 4
+L 5
+T 6
+o 7
+
+t l z o z s i z s z l z l t j l z s i
+
+I Z L O S J T
+
+O Z T S L I J
